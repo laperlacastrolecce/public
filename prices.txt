@@ -1,5 +1,5 @@
 CAMERA STELLA MARINA
-Periodo	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
+Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
 01 Set - 28 Giu (soggiorno minimo 2 notti)
 45 € (*)
@@ -22,7 +22,7 @@ Stagione Alta
 +10 € (**)
 
 CAMERA MEDUSA
-Periodo	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
+	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
 01 Set - 28 Giu (soggiorno minimo 2 notti)
 45 € (*)
@@ -46,21 +46,39 @@ Stagione Alta
 
 CAMERA CORALLO
 CAMERA MATRIMONIALE CORALLO + 3° LETTO
-Il B&B "La Perla" è situato nel centro storico di Castro e a circa 2km dal meraviglioso mare del salento. Il Bed and Breakfast "La Perla" è una elegante struttura composta da cinque camere doppie con possibilità di aggiunta di un terzo posto letto.
-Caratteristiche
-Persone: min. 2 - max. 3
-Letto matrimoniale
-3° letto
-Zona angolo cottura
-Tavolino
-Armadio
-SERVIZI
-Breakfast
-TV LCD
-Bagno in camera
-Climatizzatore
-Connessione Wi-fi Internet
+Periodo	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
+Stagione Bassa
+01 Set - 28 Giu
+(soggiorno minimo 2 notti)
+45 € (*)
 
++10 € (**)
+
++10 € (**)
+
++10 € (**)
+
+Stagione Media
+01 Lug - 31 Lug
+(soggiorno minimo 2 notti)
+50 € (*)
+
++15 € (**)
+
++10 € (**)
+
++10 € (**)
+
+Stagione Alta
+01 Ago - 31 Ago
+(soggiorno minimo 2 notti)
+70 € (*)
+
++20 € (**)
+
++10 € (**)
+
++10 € (**)
 CAMERA CONCHIGLIA
 Periodo	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
