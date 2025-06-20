@@ -22,7 +22,7 @@ Stagione Alta
 +10 € (**)
 
 CAMERA MEDUSA
-	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
+Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
 01 Set - 28 Giu (soggiorno minimo 2 notti)
 45 € (*)
@@ -48,37 +48,26 @@ CAMERA CORALLO
 CAMERA MATRIMONIALE CORALLO + 3° LETTO
 Periodo	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
-01 Set - 28 Giu
-(soggiorno minimo 2 notti)
+01 Set - 28 Giu (soggiorno minimo 2 notti)
 45 € (*)
-
 +10 € (**)
-
 +10 € (**)
-
 +10 € (**)
 
 Stagione Media
-01 Lug - 31 Lug
-(soggiorno minimo 2 notti)
+01 Lug - 31 Lug (soggiorno minimo 2 notti)
 50 € (*)
-
 +15 € (**)
-
 +10 € (**)
-
 +10 € (**)
 
 Stagione Alta
-01 Ago - 31 Ago
-(soggiorno minimo 2 notti)
+01 Ago - 31 Ago (soggiorno minimo 2 notti)
 70 € (*)
-
 +20 € (**)
-
++10 € (**)
 +10 € (**)
 
-+10 € (**)
 CAMERA CONCHIGLIA
 Periodo	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
@@ -125,6 +114,7 @@ Stagione Alta
 +10 € (**)
 +10 € (**)
 
+===EXTRA===
 DESCRIZIONE (*)
 I prezzi in camera doppia del B&B La Perla si riferiscono a un soggiorno minimo di due notti e comprendono pernottamento e prima colazione a 2Km dal mare del Salento, Castro Marina. Se si desidera pernottare una sola notte, il Bed & Breakfast "La Perla" prevede un supplemento di 10.00 €, possono essere richieste anche camere con angolo cottura con una maggiorazione di 10.00 € al giorno.
 
