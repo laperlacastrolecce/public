@@ -3,46 +3,46 @@ Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
 01 Set - 28 Giu (soggiorno minimo 2 notti)
 45 € (*)
-+10 € (3° letto)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++10 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Media
 01 Lug - 31 Lug (soggiorno minimo 2 notti)
 50 € (*)
-+15 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++15 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Alta
 01 Ago - 31 Ago (soggiorno minimo 2 notti)
 70 € (*)
-+20 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++20 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 CAMERA MEDUSA
 Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
 01 Set - 28 Giu (soggiorno minimo 2 notti)
 45 € (*)
-+10 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++10 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Media
 01 Lug - 31 Lug (soggiorno minimo 2 notti)
 50 € (*)
-+15 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++15 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Alta
 01 Ago - 31 Ago (soggiorno minimo 2 notti)
 70 € (*)
-+20 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++20 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 CAMERA CORALLO
 CAMERA MATRIMONIALE CORALLO + 3° LETTO
@@ -50,69 +50,69 @@ Periodo	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
 01 Set - 28 Giu (soggiorno minimo 2 notti)
 45 € (*)
-+10 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++10 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Media
 01 Lug - 31 Lug (soggiorno minimo 2 notti)
 50 € (*)
-+15 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++15 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Alta
 01 Ago - 31 Ago (soggiorno minimo 2 notti)
 70 € (*)
-+20 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++20 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 CAMERA CONCHIGLIA
 Periodo	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
 01 Set - 28 Giu (soggiorno minimo 2 notti)
 45 € (*)
-+10 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++10 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Media
 01 Lug - 31 Lug (soggiorno minimo 2 notti)
 50 € (*)
-+15 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++15 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Alta
 01 Ago - 31 Ago (soggiorno minimo 2 notti)
 70 € (*)
-+20 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++20 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 CAMERA CAVALLUCCIO MARINO
 Periodo	Camera doppia	3° letto	Angolo cottura	Pernottamento (1 notte)
 Stagione Bassa
 01 Set - 28 Giu (soggiorno minimo 2 notti)
 45 € (*)
-+10 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++10 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Media
 01 Lug - 31 Lug (soggiorno minimo 2 notti)
 50 € (*)
-+15 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++15 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 Stagione Alta
 01 Ago - 31 Ago (soggiorno minimo 2 notti)
 70 € (*)
-+20 € (3° letto)(**)
-+10 € (Angolo cottura)(**)
-+10 € (Pernottamento di una sola 1 notte)(**)
++20 € (3° letto**)
++10 € (Angolo cottura**)
++10 € (Pernottamento di una sola 1 notte**)
 
 ===EXTRA===
 DESCRIZIONE (*)
